@@ -8,7 +8,7 @@ module.exports = {
   siteLanguage: 'en_US',
   siteImage: 'https://brittanychiang.com/og.jpg',
 
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  googleVerification: 'pwsarltZS43FHcoYQ0P4wUV5azl_WlnnqQNsUf5QLIY',
 
   name: 'Aro Ayomide',
   location: 'Osun State, Nigeria',
