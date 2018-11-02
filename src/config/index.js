@@ -4,9 +4,9 @@ module.exports = {
     'A creative person who is so passionate about using technology to improve and impact lives. I have experiences in building applications for several areas cutting across mobile & web development and other areas, with a strong feel for machine learning and artificial intelligence.',
   siteKeywords:
     'Aro Ayomide, Aro, Ayomide, ayomidearo, software engineer, backend engineer, web developer,nodejs,  javascript, nigeria, aws, android',
-  siteUrl: 'https://ayomidearo.me',
+  siteUrl: 'https://www.ayomidearo.me',
   siteLanguage: 'en_US',
-  siteImage: 'https://brittanychiang.com/og.png',
+  siteImage: 'https://brittanychiang.com/og.jpg',
 
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
 

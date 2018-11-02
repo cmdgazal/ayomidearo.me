@@ -2,7 +2,7 @@
 date: '2018-05-01'
 title: 'Backend Engineer'
 company: 'FemmeBNB'
-location: 'Lagos, Nigeria'
+location: 'Toronto, Canada'
 range: 'March - May 2018'
 url: 'https://www.femmebnb.com/'
 ---

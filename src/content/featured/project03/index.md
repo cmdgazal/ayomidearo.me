@@ -1,14 +1,14 @@
 ---
-date: '2017-06-01'
-title: 'Personal Website V3'
-cover: './v3.png'
-github: 'https://github.com/bchiang7/v3'
-external: 'https://bchiang7.github.io/v3/'
+date: '2018-05-01'
+title: 'FemmeBNB'
+cover: './femmebnb.jpg'
+github: ''
+external: 'https://www.femmebnb.com/'
 tech:
-  - SCSS
-  - JavaScript
-  - Jekyll
-  - Github Pages
+  - Node.js
+  - ReactJS
+  - MongoDB
+  - Stripe
 ---
 
-Third iteration of my personal website built with Jekyll and hosted on Github Pages. Used by several people as a template for their own personal sites and has gained over 40 stars on Github.
+FemmeBNB is a platform in which women can connect with other women. This platform serves as an online place where women could potentially find other women with similar travel interests, around the world or in their communities. They could discuss previous travels, provide travel tips, and help each other when planning a new trip. It also provides a list of spaces in which female travelers would feel comfortable and safe.
