@@ -1,16 +1,16 @@
 {
-  "name": "v4",
-  "description": "Personal Website V4",
+  "name": "ayomidearo.me",
+  "description": "this is my personal website",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Aro Ayomide <skilashiaro@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/ayomidearo/ayomidearo.me"
   },
   "keywords": [
     "gatsby"
   ],
-  "license": "MIT",
+  "license": "ISC",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
