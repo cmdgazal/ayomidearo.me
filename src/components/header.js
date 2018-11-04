@@ -10,11 +10,11 @@ import { headerHeight } from '../config';
 import resume from '../images/resume.pdf';
 
 import Menu from '../components/menu';
-import { IconLogo } from './icons';
 
 import styled from 'styled-components';
 import { theme, mixins, media, Nav } from '../styles';
 
+import logo from '../images/favicons/ms-icon-310x310.png';
 const HeaderContainer = styled.header`
   ${mixins.flexBetween};
   position: fixed;
@@ -50,8 +50,8 @@ const Logo = styled.div`
 `;
 const LogoLink = styled(Link)`
   color: ${theme.colors.green};
-  width: 42px;
-  height: 42px;
+  width: 50px;
+  height: 50px;
   &:hover,
   &:focus {
     svg {
@@ -263,7 +263,7 @@ class Header extends Component {
               <CSSTransition classNames="fade" timeout={3000}>
                 <Logo>
                   <LogoLink to="/" aria-label="Home">
-                    <IconLogo />
+                    <img src={logo} alt="Logo" />
                   </LogoLink>
                 </Logo>
               </CSSTransition>
