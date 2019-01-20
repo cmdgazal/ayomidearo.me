@@ -76,7 +76,7 @@ const Footer = () => (
     </SocialContainer>
     <Copy>
       <GithubLink
-        href="https://github.com/bchiang7/v4"
+        href="https://github.com/ayomidearo"
         target="_blank"
         rel="nofollow noopener noreferrer">
         Made with ♥️ by Ayomide Aro
