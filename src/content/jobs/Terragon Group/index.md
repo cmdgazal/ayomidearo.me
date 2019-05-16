@@ -12,3 +12,4 @@ url: 'https://terragongroup.com/'
 - Assemble large, complex data sets that meet functional / non-functional business requirements.
 - Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
 - Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and AWS ‘big data’ technologies.
+- Designing, development and deployment of frontend and backend services(APIs and Microservices).

@@ -13,10 +13,10 @@ skills:
   - Version Control - Git
   - Container - Docker
   - Testing Frameworks - JUnit (Java), Mocha(Nodejs)
-  - Platform - AWS(Cognito, Lambda, SNS/SES/SQS, EC2, API Gateway)
+  - Platform - AWS(Cognito, Lambda, SNS/SES/SQS, EC2, API Gateway, S3, Athena, Glue, Kinesis, Redshift)
 ---
 
-I am a Full Stack Software Engineer with expertise in building scalable Web and Mobile applications with a strong feel for machine learning and artificial intelligence. I enjoy continually learning and improving my skills with the technologies that keep evolving in this ever-changing field!
+I am a Data & Software Engineer with expertise in building scalable Web/Mobile applications and sophisticated Data Pipeline and Warehouse for Big Data. I enjoy continually learning and improving my skills with the technologies that keep evolving in this ever-changing field!
 
 I write on random thoughts and also play the keyboard during leisure. I'm also an avid reader.
 

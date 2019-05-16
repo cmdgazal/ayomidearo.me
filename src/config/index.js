@@ -1,12 +1,12 @@
 module.exports = {
-  siteTitle: 'Aro Ayomide | Software Engineer',
+  siteTitle: 'Aro Ayomide | Data & Software Engineer',
   siteDescription:
     'A creative person who is so passionate about using technology to improve and impact lives. I have experiences in building applications for several areas cutting across mobile & web development and other areas, with a strong feel for machine learning and artificial intelligence.',
   siteKeywords:
-    'Aro Ayomide, Aro, Ayomide, ayomidearo, software engineer, backend engineer, web developer,nodejs,  javascript, nigeria, aws, android',
+    'Aro Ayomide, Aro, Ayomide, ayomidearo, software engineer, data engineer, data pipeline engineer, backend engineer, web developer,nodejs,  javascript, nigeria, aws, android',
   siteUrl: 'https://www.ayomidearo.me',
   siteLanguage: 'en_US',
-  siteImage: 'https://brittanychiang.com/og.jpg',
+  siteImage: 'https://ayomidearo.com/og.jpg',
 
   googleVerification: 'pwsarltZS43FHcoYQ0P4wUV5azl_WlnnqQNsUf5QLIY',
 
