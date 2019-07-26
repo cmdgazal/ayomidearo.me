@@ -79,7 +79,13 @@ const Footer = () => (
         href="https://github.com/ayomidearo"
         target="_blank"
         rel="nofollow noopener noreferrer">
-        Made with ♥️ by Ayomide Aro
+        Ayomide Aro
+      </GithubLink>
+      <GithubLink
+        href="https://github.com/bchiang7/v4"
+        target="_blank"
+        rel="nofollow noopener noreferrer">
+        Original Design By Brittany
       </GithubLink>
     </Copy>
   </FooterContainer>
